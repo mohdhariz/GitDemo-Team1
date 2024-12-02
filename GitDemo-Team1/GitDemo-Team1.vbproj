@@ -183,6 +183,8 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Images\dynamic\download.jpg" />
+    <Content Include="Images\static\download.jpg" />
     <Content Include="htmlMergeSecondTime.html" />
     <Content Include="Modules\TUAHIndeks\index.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
